@@ -16,3 +16,6 @@ Multer,
 GridFS-Storage,
 Formik,
 Yup,
+
+For now you need to execute 'npm run start' in the client and server directory respectively.
+Create an account and start making posts!
